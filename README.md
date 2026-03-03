@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # @indiekitai/pgcomplete
 
 PostgreSQL auto-completion engine for TypeScript/Node.js, ported from [pgcli](https://github.com/dbcli/pgcli)'s `pgcompleter.py`.
